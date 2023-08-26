@@ -1,7 +1,7 @@
 # drawwwer
  draw and guess!
 
-![](https://s2.loli.net/2023/08/26/dDhiMrawey3W4nb.png)
+![](https://s2.loli.net/2023/08/26/CxskTmuZpXzgqUF.png)
 
 ## Usage
 
@@ -9,3 +9,8 @@
 - Open SD WebUI and jump to ControlNet
   ![](https://s2.loli.net/2023/08/26/ju2QpcPCobIgtlL.png)
 - `python drawer.py <image_path>`
+
+## Roadmap (never)
+
+- Add PySide6 GUI
+- Add a feature that can mark the positioning points before starting to draw
