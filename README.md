@@ -28,6 +28,6 @@
 
   🤣👉The actual test results show that there is almost no difference between interlaced scanning and progressive scanning in terms of time and GPU utilization.
 
-## Roadmap (never)
+## Roadmap
 
-- Add PySide6 GUI
+- [Add PySide6 GUI](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
