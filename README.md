@@ -15,6 +15,8 @@
 ## Feature
 
 - `scale`
+
+  Set scale of drawing
 - `draw_position_point` (new!)
 
   Draw the four corners of the picture to prevent misoperation caused by high-frequency automatic clicks
